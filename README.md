@@ -6,8 +6,8 @@ A lightweight Cinnamon desktop extension that adds configurable gaps around maxi
 Clone the repository:
 
 ```bash
-git clone https://github.com/Schwarzemann/gapped-maximization.git
-cd gapped-maximization
+git clone https://github.com/Schwarzemann/gapped-maximize.git
+cd gapped-maximize
 ```
 
 Run the installer:
