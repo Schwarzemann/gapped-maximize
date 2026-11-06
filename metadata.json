@@ -1,0 +1,7 @@
+{
+    "uuid": "gapped-maximize@local",
+    "name": "Gapped Maximization",
+    "description": "Adds margins around maximized windows.",
+    "cinnamon-version": ["6.6"],
+    "version": 1
+}
